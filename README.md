@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hey, I'm MBrilla
+![MBrilla Banner](./banner.jpg.jpg)
 
 **Founder at [Tab Studios](https://tabstudios.dev) • Full-Stack Developer**
-
-*Building everything from high-converting landing pages to full-scale, production-ready web applications.*
 
 [![Website](https://img.shields.io/badge/Tab_Studios-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tabstudios.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MBrilla)
